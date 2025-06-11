@@ -16,7 +16,7 @@ I worked with Atliq Hardware’s actual datasets to perform detailed financial a
 
 ## SQL Skills and Techniques Used
 
-- **Stored Procedures:** Automated complex tasks and made the code reusable.
+- **Stored Procedures:** 
 - **Common Table Expressions (CTEs):** Broke down complicated queries into easier, readable parts.
 - **Views:** Created virtual tables to simplify data access.
 - **User-Defined Functions:** Wrote custom functions for repeated logic and calculations.
