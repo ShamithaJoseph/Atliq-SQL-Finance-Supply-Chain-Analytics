@@ -24,8 +24,8 @@ I worked with Atliq Hardware’s actual datasets to perform detailed financial a
 - **Triggers** 
 - **Indexing** 
 - **Joining Multiple Tables** 
-- - **Query Optimization** 
-- 
+- **Query Optimization** 
+  
 ## Learning Outcomes
 
 In this project, I got to work with real business data, which helped me learn and practice advanced SQL skills. I also improved my ability to turn business needs into smart data solutions that support better decision-making.
